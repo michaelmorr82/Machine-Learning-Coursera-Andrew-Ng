@@ -22,9 +22,11 @@ numerous case studies and applications, so that you'll also learn how to apply l
 (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, 
 and other areas.<P>
  
- [test] (http://www.google.com)
-Exercise 1 - Linear Regression <A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/tree/master/Assignment%201%20-%20Linear%20regression>Python </A><BR>
+
+Exercise 1 - Linear Regression <A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/blob/master/Assignment%201%20-%20Linear%20regression/ex1%20-%20Python/Exercise%201%20-%20Linear%20Regression%20-%20Multivariable-checkpoint.ipynb'>Python </A><BR>
 <A href = Exercise 2 - Logistic Regression'http://nbviewer.ipython.org/github/JWarmenhoven/Machine-Learning/blob/master/notebooks/Programming%20Exercise%202%20-%20Logistic%20Regression.ipynb'></A><BR>
+
+<A href='http://nbviewer.ipython.org/github/JWarmenhoven/Machine-Learning/blob/master/notebooks/Programming%20Exercise%201%20-%20Linear%20Regression.ipynb'>Exercise 1 - Linear Regression</A><BR>
 <A href= Exercise 3 - Multi-class Classification and Neural Networks 'http://nbviewer.ipython.org/github/JWarmenhoven/Machine-Learning/blob/master/notebooks/Programming%20Exercise%203%20-%20Multi-class%20Classification%20and%20Neural%20Networks.ipynb'></A><BR>
 <A href= Exercise 4 - Neural Networks Learning'http://nbviewer.ipython.org/github/JWarmenhoven/Machine-Learning/blob/master/notebooks/Programming%20Exercise%204%20-%20Neural%20Networks%20Learning.ipynb'>Exercise 4 - Neural Networks Learning</A><BR>
 <A href= Exercise 5 - Regularized Linear Regression and Bias v.s. Variance 'http://nbviewer.jupyter.org/github/JWarmenhoven/Machine-Learning/blob/master/notebooks/Programming%20Exercise%205%20-%20Regularized%20Linear%20Regression%20and%20Bias%20v.s.%20Variance.ipynb'></A><BR>
