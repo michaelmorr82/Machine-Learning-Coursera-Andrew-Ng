@@ -15,8 +15,8 @@ and other areas.<P>
  
 
 Exercise 1 - Linear Regression <A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/blob/master/Assignment%201%20-%20Linear%20regression/ex1%20-%20Python/Exercise%201%20-%20Linear%20Regression%20-%20Multivariable-checkpoint.ipynb'>Python </A>
-	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/tree/master/Assignment%201%20-%20Linear%20regression/ex1%20-%20Matlab' MATLAB</A>
-	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/blob/master/Assignment%201%20-%20Linear%20regression/ex1.pdf'Exercise </A><BR>
+	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/tree/master/Assignment%201%20-%20Linear%20regression/ex1%20-%20Matlab'> MATLAB</A>
+	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/blob/master/Assignment%201%20-%20Linear%20regression/ex1.pdf'>Exercise </A><BR>
 	
 	
 Exercise 2 - Logistic Regression <A href = 'http://nbviewer.ipython.org/github/JWarmenhoven/Machine-Learning/blob/master/notebooks/Programming%20Exercise%202%20-%20Logistic%20Regression.ipynb'></A><BR>
