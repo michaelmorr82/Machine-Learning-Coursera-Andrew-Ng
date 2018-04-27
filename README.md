@@ -1,5 +1,5 @@
 # Machine Learning - Coursera - Andrew Ng
-<IMG src='https://www.google.com/imgres?imgurl=https%3A%2F%2Fd3njjcbhbojbot.cloudfront.net%2Fapi%2Futilities%2Fv1%2Fimageproxy%2Fhttps%3A%2F%2Fcoursera.s3.amazonaws.com%2Ftopics%2Fml%2Flarge-icon.png&imgrefurl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning&docid=W1jBOs6LCrJfWM&tbnid=Vs9y5SSd5uTnUM%3A&vet=10ahUKEwixpISw0traAhVQ52MKHUO0CVUQMwg4KAAwAA..i&w=460&h=259&client=firefox-b&bih=831&biw=1747&q=logo%20machine%20learning%20coursera&ved=0ahUKEwixpISw0traAhVQ52MKHUO0CVUQMwg4KAAwAA&iact=mrc&uact=8'width=25% height=25%><P>
+<IMG src='https://www.google.com/imgres?imgurl=https%3A%2F%2Fd3njjcbhbojbot.cloudfront.net%2Fapi%2Futilities%2Fv1%2Fimageproxy%2Fhttps%3A%2F%2Fcoursera.s3.amazonaws.com%2Ftopics%2Fml%2Flarge-icon.png&imgrefurl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning&docid=W1jBOs6LCrJfWM&tbnid=Vs9y5SSd5uTnUM%3A&vet=10ahUKEwixpISw0traAhVQ52MKHUO0CVUQMwg4KAAwAA..i&w=460&h=259&client=firefox-b&bih=831&biw=1747&q=logo%20machine%20learning%20coursera&ved=0ahUKEwixpISw0traAhVQ52MKHUO0CVUQMwg4KAAwAA&iact=mrc&uact=8' width=25% height=25%><P>
 
 
 The following files are solutions to the online Coursera course 'Machine Learning' by Andrew Ng. 
