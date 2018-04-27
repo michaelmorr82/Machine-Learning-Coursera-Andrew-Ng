@@ -22,7 +22,7 @@ numerous case studies and applications, so that you'll also learn how to apply l
 (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, 
 and other areas.<P>
  
- 
+ [test] (http://www.google.com)
 <A href = Exercise 1 - Linear Regression 'http://nbviewer.ipython.org/github/JWarmenhoven/Machine-Learning/blob/master/notebooks/Programming%20Exercise%201%20-%20Linear%20Regression.ipynb'></A><BR>
 <A href = Exercise 2 - Logistic Regression'http://nbviewer.ipython.org/github/JWarmenhoven/Machine-Learning/blob/master/notebooks/Programming%20Exercise%202%20-%20Logistic%20Regression.ipynb'></A><BR>
 <A href= Exercise 3 - Multi-class Classification and Neural Networks 'http://nbviewer.ipython.org/github/JWarmenhoven/Machine-Learning/blob/master/notebooks/Programming%20Exercise%203%20-%20Multi-class%20Classification%20and%20Neural%20Networks.ipynb'></A><BR>
