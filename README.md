@@ -14,8 +14,8 @@ numerous case studies and applications, so that you'll also learn how to apply l
 and other areas.<P>
  
 
-Exercise 1 - Linear Regression <A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/blob/master/Assignment%201%20-%20Linear%20regression/ex1%20-%20Python/Exercise%201%20-%20Linear%20Regression%20-%20Multivariable-checkpoint.ipynb'>Python 
-	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/tree/master/Assignment%201%20-%20Linear%20regression/ex1%20-%20Matlab' MATLAB
+Exercise 1 - Linear Regression <A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/blob/master/Assignment%201%20-%20Linear%20regression/ex1%20-%20Python/Exercise%201%20-%20Linear%20Regression%20-%20Multivariable-checkpoint.ipynb'>Python </A>
+	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/tree/master/Assignment%201%20-%20Linear%20regression/ex1%20-%20Matlab' MATLAB</A>
 	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/blob/master/Assignment%201%20-%20Linear%20regression/ex1.pdf'Exercise </A><BR>
 	
 	
