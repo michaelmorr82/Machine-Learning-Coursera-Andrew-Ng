@@ -37,13 +37,13 @@ Exercise 4 - Neural Networks Learning
 
 Exercise 5 - Regularized Linear Regression and Bias v.s. Variance 
 	<A href = ''> Python (Jupyter Notebook)</A>
-	<A href = ''> MATLAB </A>
-	<A href = ''> Exercise PDF </A>
+	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/tree/master/Assignment%205%20-%20%20Regularized%20Linear%20Regression%20and%20Bias%20v.s.%20Variance/ex5%20-%20Matlab'> MATLAB </A>
+	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/blob/master/Assignment%205%20-%20%20Regularized%20Linear%20Regression%20and%20Bias%20v.s.%20Variance/ex5.pdf'> Exercise PDF </A>
 
 Exercise 6 - Support Vector Machines 
 	<A href = ''> Python (Jupyter Notebook)</A>
-	<A href = ''> MATLAB </A>
-	<A href = ''> Exercise PDF </A>
+	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/tree/master/Assignment%206%20-%20Support%20Vector%20Machines/ex6%20-%20Matlab'> MATLAB </A>
+	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/blob/master/Assignment%206%20-%20Support%20Vector%20Machines/ex6.pdf'> Exercise PDF </A>
 
 Exercise 7 - K-means Clustering and Principal Component Analysis 
 	<A href = ''> Python (Jupyter Notebook)</A>
@@ -52,8 +52,8 @@ Exercise 7 - K-means Clustering and Principal Component Analysis
 
 Exercise 8 - Anomaly Detection and Recommender Systems
 	<A href = ''> Python (Jupyter Notebook)</A>
-	<A href = ''> MATLAB </A>
-	<A href = ''> Exercise PDF </A>
+	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/tree/master/Assignment%208%20-%20Anomaly%20Detection%20and%20Recommender%20Systems/ex8%20-%20Matlab'> MATLAB </A>
+	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/blob/master/Assignment%208%20-%20Anomaly%20Detection%20and%20Recommender%20Systems/ex8.pdf'> Exercise PDF </A>
 
 ##### References:
 https://www.coursera.org/learn/machine-learning/home/welcome
