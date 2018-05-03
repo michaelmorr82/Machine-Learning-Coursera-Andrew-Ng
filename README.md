@@ -1,4 +1,4 @@
-# Machine Learning - Coursera - Andrew Ng
+# Solutions to Machine Learning - Coursera - Andrew Ng
 <IMG src='https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/topics/ml/large-icon.png' width=25% height=25%><P>
 
 
