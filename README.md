@@ -36,19 +36,19 @@ Exercise 4 - Neural Networks Learning
 	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/blob/master/Exercises/Assignment%204%20-%20Neural%20Networs%20Learning/ex4.pdf'> Exercise PDF </A>
 
 Exercise 5 - Regularized Linear Regression and Bias v.s. Variance 
-	<A href = ''> Python (Jupyter Notebook)</A>
+	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/blob/master/Exercises/Assignment%205%20-%20%20Regularized%20Linear%20Regression%20and%20Bias%20v.s.%20Variance/ex5%20-%20Python/Exercise%205%20-%20Regularized%20Linear%20Regression.ipynb'> Python (Jupyter Notebook)</A>
 	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/tree/master/Exercises/Assignment%205%20-%20%20Regularized%20Linear%20Regression%20and%20Bias%20v.s.%20Variance/ex5%20-%20Matlab'> MATLAB </A>
 	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/blob/master/Exercises/Assignment%205%20-%20%20Regularized%20Linear%20Regression%20and%20Bias%20v.s.%20Variance/ex5.pdf'> Exercise PDF </A>
 
 Exercise 6 - Support Vector Machines 
-	<A href = ''> Python (Jupyter Notebook)</A>
+	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/blob/master/Exercises/Assignment%206%20-%20Support%20Vector%20Machines/ex6%20-%20Python/Exercise%206%20-%20Support%20Vector%20machines.ipynb'> Python (Jupyter Notebook)</A>
 	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/tree/master/Exercises/Assignment%206%20-%20Support%20Vector%20Machines/ex6%20-%20Matlab'> MATLAB </A>
 	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/blob/master/Exercises/Assignment%206%20-%20Support%20Vector%20Machines/ex6.pdf'> Exercise PDF </A>
 
 Exercise 7 - K-means Clustering and Principal Component Analysis 
-	<A href = ''> Python (Jupyter Notebook)</A>
-	<A href = ''> MATLAB </A>
-	<A href = ''> Exercise PDF </A>
+	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/blob/master/Exercises/Assignment%207%20-%20K-means%20Clustering%20and%20Principal%20Component%20Analysis/ex7%20-%20Python/Exercise%207%20-%20%20K-means%20Clustering%20and%20Principal%20Component%20Analysis.ipynb'> Python (Jupyter Notebook)</A>
+	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/tree/master/Exercises/Assignment%207%20-%20K-means%20Clustering%20and%20Principal%20Component%20Analysis/ex7%20-%20matlabs'> MATLAB </A>
+	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/blob/master/Exercises/Assignment%207%20-%20K-means%20Clustering%20and%20Principal%20Component%20Analysis/ex7.pdf'> Exercise PDF </A>
 
 Exercise 8 - Anomaly Detection and Recommender Systems
 	<A href = ''> Python (Jupyter Notebook)</A>
