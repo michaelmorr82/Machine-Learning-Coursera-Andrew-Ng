@@ -51,7 +51,7 @@ Exercise 7 - K-means Clustering and Principal Component Analysis
 	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/blob/master/Exercises/Assignment%207%20-%20K-means%20Clustering%20and%20Principal%20Component%20Analysis/ex7.pdf'> Exercise PDF </A>
 
 Exercise 8 - Anomaly Detection and Recommender Systems
-	<A href = ''> Python (Jupyter Notebook)</A>
+	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/blob/master/Exercises/Assignment%208%20-%20Anomaly%20Detection%20and%20Recommender%20Systems/ex8%20-%20Python/Exercise%208%20-%20Anomaly%20Detection%20and%20Recommender%20Systems.ipynb'> Python (Jupyter Notebook)</A>
 	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/tree/master/Exercises/Assignment%208%20-%20Anomaly%20Detection%20and%20Recommender%20Systems/ex8%20-%20Matlab'> MATLAB </A>
 	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/blob/master/Exercises/Assignment%208%20-%20Anomaly%20Detection%20and%20Recommender%20Systems/ex8.pdf'> Exercise PDF </A>
 
