@@ -3,7 +3,7 @@
 
 
 The following files are solutions to the online Coursera course 'Machine Learning' by Andrew Ng. 
-The ecercide description is provided in PDF format and the solutions are provided in both Pythng and MATLAB. All corresponding data files are also provided. <P>
+The exercise description is provided in PDF format and the solutions are provided in both Pythng and MATLAB. All corresponding data files are also provided. <P>
 
 This course provides a broad  introduction to machine learning, datamining, and statistical pattern recognition. Topics include:
 (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) 
